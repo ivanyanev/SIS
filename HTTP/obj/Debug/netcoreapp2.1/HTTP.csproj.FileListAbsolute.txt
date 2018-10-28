@@ -1,0 +1,9 @@
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\bin\Debug\netcoreapp2.1\HTTP.deps.json
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\bin\Debug\netcoreapp2.1\HTTP.dll
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\bin\Debug\netcoreapp2.1\HTTP.pdb
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.AssemblyInfoInputs.cache
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.AssemblyInfo.cs
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.dll
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.pdb
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.csprojAssemblyReference.cache

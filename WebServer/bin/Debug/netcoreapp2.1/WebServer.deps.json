@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WebServer/1.0.0": {
+        "dependencies": {
+          "HTTP": "1.0.0"
+        },
+        "runtime": {
+          "WebServer.dll": {}
+        }
+      },
+      "HTTP/1.0.0": {
+        "runtime": {
+          "HTTP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HTTP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

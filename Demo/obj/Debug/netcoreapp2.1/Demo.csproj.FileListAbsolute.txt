@@ -1,0 +1,16 @@
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\HTTP.dll
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\WebServer.dll
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\HTTP.pdb
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\bin\Debug\netcoreapp2.1\WebServer.pdb
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CopyComplete
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
