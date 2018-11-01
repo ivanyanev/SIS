@@ -1,0 +1,16 @@
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.deps.json
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.runtimeconfig.json
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.runtimeconfig.dev.json
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.dll
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\HTTP.dll
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\WebServer.dll
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\HTTP.pdb
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\WebServer.pdb
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csproj.CoreCompileInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.AssemblyInfoInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.AssemblyInfo.cs
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csproj.CopyComplete
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.csprojAssemblyReference.cache
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.pdb
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.dll
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.pdb

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="microsoft.EntityFrameworkCore.design" Version="2.1.4" />
+    <PackageReference Include="microsoft.EntityFrameworkCore.proxies" Version="2.1.4" />
+    <PackageReference Include="microsoft.EntityFrameworkCore.sqlserver" Version="2.1.4" />
+    <PackageReference Include="microsoft.EntityFrameworkCore.tools" Version="2.1.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HTTP\HTTP.csproj" />
+    <ProjectReference Include="..\WebServer\WebServer.csproj" />
+  </ItemGroup>
+
+</Project>
