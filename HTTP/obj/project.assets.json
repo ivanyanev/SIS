@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\HTTP\\HTTP.csproj",
+      "projectUniqueName": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj",
       "projectName": "HTTP",
-      "projectPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\HTTP\\HTTP.csproj",
+      "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj",
       "packagesPath": "C:\\Users\\i.yanev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\HTTP\\obj\\",
+      "outputPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

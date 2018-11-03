@@ -10,3 +10,15 @@ C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\WebServer\obj\Debug\netcoreapp2.1\We
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CopyComplete
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.dll
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.deps.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\bin\Debug\netcoreapp2.1\WebServer.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\bin\Debug\netcoreapp2.1\HTTP.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\bin\Debug\netcoreapp2.1\HTTP.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csprojAssemblyReference.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CoreCompileInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfoInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfo.cs
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CopyComplete
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\WebServer\obj\Debug\netcoreapp2.1\WebServer.pdb

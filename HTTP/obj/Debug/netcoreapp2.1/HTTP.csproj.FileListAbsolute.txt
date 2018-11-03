@@ -7,3 +7,12 @@ C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.As
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.dll
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.pdb
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.csprojAssemblyReference.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\bin\Debug\netcoreapp2.1\HTTP.deps.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\bin\Debug\netcoreapp2.1\HTTP.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\bin\Debug\netcoreapp2.1\HTTP.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.csprojAssemblyReference.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.csproj.CoreCompileInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.AssemblyInfoInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.AssemblyInfo.cs
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\HTTP\obj\Debug\netcoreapp2.1\HTTP.pdb

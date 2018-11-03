@@ -3591,11 +3591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\CakesWebApp\\CakesWebApp.csproj",
+      "projectUniqueName": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\CakesWebApp\\CakesWebApp.csproj",
       "projectName": "CakesWebApp",
-      "projectPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\CakesWebApp\\CakesWebApp.csproj",
+      "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\CakesWebApp\\CakesWebApp.csproj",
       "packagesPath": "C:\\Users\\i.yanev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\CakesWebApp\\obj\\",
+      "outputPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\CakesWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3614,11 +3614,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\HTTP\\HTTP.csproj": {
-              "projectPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\HTTP\\HTTP.csproj"
+            "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj": {
+              "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj"
             },
-            "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\WebServer\\WebServer.csproj": {
-              "projectPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\WebServer\\WebServer.csproj"
+            "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\WebServer\\WebServer.csproj": {
+              "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\WebServer\\WebServer.csproj"
             }
           }
         }

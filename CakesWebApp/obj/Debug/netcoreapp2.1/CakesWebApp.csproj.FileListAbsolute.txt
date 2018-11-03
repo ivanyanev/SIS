@@ -17,3 +17,22 @@ C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Register.html
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Index.html
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Login.html
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Index.html
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Login.html
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\Views\Register.html
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.deps.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.runtimeconfig.dev.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\CakesWebApp.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\HTTP.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\WebServer.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\HTTP.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\bin\Debug\netcoreapp2.1\WebServer.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csprojAssemblyReference.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CoreCompileInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfoInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.AssemblyInfo.cs
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.csproj.CopyComplete
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\CakesWebApp\obj\Debug\netcoreapp2.1\CakesWebApp.pdb

@@ -14,3 +14,19 @@ C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.As
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CopyComplete
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.dll
 C:\Users\i.yanev\OneDrive\softuni\C#Web\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\HTTP.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\WebServer.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\HTTP.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\bin\Debug\netcoreapp2.1\WebServer.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CopyComplete
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\Demo\obj\Debug\netcoreapp2.1\Demo.pdb

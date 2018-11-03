@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\WebServer\\WebServer.csproj",
+      "projectUniqueName": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\WebServer\\WebServer.csproj",
       "projectName": "WebServer",
-      "projectPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\WebServer\\WebServer.csproj",
+      "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\WebServer\\WebServer.csproj",
       "packagesPath": "C:\\Users\\i.yanev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\WebServer\\obj\\",
+      "outputPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\WebServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -726,8 +726,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\HTTP\\HTTP.csproj": {
-              "projectPath": "C:\\Users\\i.yanev\\OneDrive\\softuni\\C#Web\\SIS\\HTTP\\HTTP.csproj"
+            "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj": {
+              "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj"
             }
           }
         }
