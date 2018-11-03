@@ -1304,6 +1304,16 @@
           "bin/placeholder/HTTP.dll": {}
         }
       },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
+      },
       "WebServer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -4825,6 +4835,11 @@
       "path": "../HTTP/HTTP.csproj",
       "msbuildProject": "../HTTP/HTTP.csproj"
     },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
+    },
     "WebServer/1.0.0": {
       "type": "project",
       "path": "../WebServer/WebServer.csproj",
@@ -4835,6 +4850,7 @@
     ".NETCoreApp,Version=v2.1": [
       "HTTP >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "Services >= 1.0.0",
       "WebServer >= 1.0.0",
       "microsoft.EntityFrameworkCore >= 2.1.4",
       "microsoft.EntityFrameworkCore.design >= 2.1.4",
@@ -4875,6 +4891,9 @@
           "projectReferences": {
             "D:\\work\\Softuni\\C# Web\\WebServer_SIS\\SIS\\HTTP\\HTTP.csproj": {
               "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS\\SIS\\HTTP\\HTTP.csproj"
+            },
+            "D:\\work\\Softuni\\C# Web\\WebServer_SIS\\SIS\\Services\\Services.csproj": {
+              "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS\\SIS\\Services\\Services.csproj"
             },
             "D:\\work\\Softuni\\C# Web\\WebServer_SIS\\SIS\\WebServer\\WebServer.csproj": {
               "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS\\SIS\\WebServer\\WebServer.csproj"

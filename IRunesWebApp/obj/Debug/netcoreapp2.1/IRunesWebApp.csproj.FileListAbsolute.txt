@@ -14,3 +14,5 @@ D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IR
 D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\IRunesWebApp.pdb
 D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.dll
 D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\obj\Debug\netcoreapp2.1\IRunesWebApp.pdb
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\Services.dll
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\IRunesWebApp\bin\Debug\netcoreapp2.1\Services.pdb

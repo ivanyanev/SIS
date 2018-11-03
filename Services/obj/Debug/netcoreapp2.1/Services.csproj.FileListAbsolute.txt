@@ -1,0 +1,9 @@
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\bin\Debug\netcoreapp2.1\Services.deps.json
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\bin\Debug\netcoreapp2.1\Services.dll
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\bin\Debug\netcoreapp2.1\Services.pdb
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\obj\Debug\netcoreapp2.1\Services.dll
+D:\work\Softuni\C# Web\WebServer_SIS\SIS\Services\obj\Debug\netcoreapp2.1\Services.pdb

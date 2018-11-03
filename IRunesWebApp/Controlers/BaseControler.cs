@@ -1,5 +1,9 @@
-﻿using HTTP.Enums;
+﻿using CakesWebApp.Services;
+using HTTP.Cookies;
+using HTTP.Enums;
+using HTTP.Requests;
 using HTTP.Responses;
+using IRunesWebApp.Data;
 using System.IO;
 using System.Runtime.CompilerServices;
 using WebServer.Results;
@@ -8,6 +12,8 @@ namespace IRunesWebApp.Controlers
 {
     public abstract class BaseControler
     {
+        private readonly UserCookieService userCookieService;
+
         private const string RootDirectoryRelativePath = "../../../";
 
         private const string ViewsFolderName = "Views";
@@ -17,6 +23,21 @@ namespace IRunesWebApp.Controlers
         private const string HtmlFileExtension = ".html";
 
         private const string DirectorySeparator = "/";
+
+        public BaseControler()
+        {
+            this.Context = new IRunesDbContext();
+            this.userCookieService = new UserCookieService();
+        }
+
+        public void SignInUser(string username, IHttpResponse response, IHttpRequest request)
+        {
+            request.Session.AddParameter("username", username);
+            var userCookieValue = userCookieService.GetUserCookie(username);
+            response.Cookies.Add(new HttpCookie("IRunes_auth", userCookieValue));
+        }
+
+        protected IRunesDbContext Context { get; private set; }
 
         private string GetCurrentControllerName() =>
             this.GetType().Name.Replace(ControllerDefaultName, string.Empty);

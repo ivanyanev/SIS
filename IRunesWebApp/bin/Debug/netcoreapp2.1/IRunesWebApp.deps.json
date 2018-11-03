@@ -9,6 +9,7 @@
       "IRunesWebApp/1.0.0": {
         "dependencies": {
           "HTTP": "1.0.0",
+          "Services": "1.0.0",
           "WebServer": "1.0.0",
           "Microsoft.EntityFrameworkCore": "2.1.4",
           "Microsoft.EntityFrameworkCore.Design": "2.1.4",
@@ -757,6 +758,11 @@
           "HTTP.dll": {}
         }
       },
+      "Services/1.0.0": {
+        "runtime": {
+          "Services.dll": {}
+        }
+      },
       "WebServer/1.0.0": {
         "dependencies": {
           "HTTP": "1.0.0"
@@ -1306,6 +1312,11 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "HTTP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

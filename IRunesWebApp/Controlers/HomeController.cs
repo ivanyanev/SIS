@@ -1,5 +1,4 @@
-﻿using HTTP.Requests;
-using HTTP.Responses;
+﻿using HTTP.Responses;
 
 namespace IRunesWebApp.Controlers
 {

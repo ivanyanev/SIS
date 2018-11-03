@@ -14,19 +14,12 @@
         <li><a href="/users/register">Register</a></li>
     </ul>
     <hr />
-    <h1>Welcome to IRunes</h1>
-    <h3><a href="/users/login">Login</a> if you have an account.</h3>
-    <h3><a href="/users/register">Register</a> if you don't.</h3>
-    <hr />
-    <h1>Login</h1>
-    <form method="post" action="/users/login">
-        <div>
-            Username/Email <input type="text" name="username" />
-        </div>
-        <div>
-            Password <input type="password" name="password" />
-        </div>
-        <input type="submit" value="Login"/>
+    <h1>Register</h1>
+    <form method="Post" action="/users/register">
+        <div>Username <input name="username" type="text" placeholder="Username" /></div>
+        <div>Password <input name="password" type="password" placeholder="Password" /></div>
+        <div>Confirm password <input name="confirmPassword" type="password" placeholder="Confirm password" /></div>
+        <div><input type="submit" value="Register" /></div>
     </form>
     <footer>
         <p><string>CopyRight&copy Sanity Design Studios. All rights reserved.</string></p>
