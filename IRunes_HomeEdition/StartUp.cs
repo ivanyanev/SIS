@@ -1,5 +1,7 @@
-﻿using IRunes_HomeEdition.Models;
-using System.Linq;
+﻿using HTTP.Enums;
+using IRunes_HomeEdition.Controlers;
+using WebServer;
+using WebServer.Routing;
 
 namespace IRunes_HomeEdition
 {
@@ -7,10 +9,13 @@ namespace IRunes_HomeEdition
     {
         public static void Main(string[] args)
         {
-            var album = new Album();
-            album.Tracks.Add(new Track() { Price = 100});
-            
-            var result = album.Price;
+            ServerRoutingTable serverRoutingTable = new ServerRoutingTable();
+
+            serverRoutingTable.Routes[HttpRequestMethod.Get]["/"] = request => new HomeController().Index(request);
+
+            Server server = new Server(80, serverRoutingTable);
+
+            server.Run();
         }
     }
 }

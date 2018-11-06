@@ -945,6 +945,29 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
+      },
+      "HTTP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/HTTP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HTTP.dll": {}
+        }
+      },
+      "WebServer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "HTTP": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebServer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebServer.dll": {}
+        }
       }
     }
   },
@@ -3538,11 +3561,23 @@
         "system.threading.tasks.4.0.11.nupkg.sha512",
         "system.threading.tasks.nuspec"
       ]
+    },
+    "HTTP/1.0.0": {
+      "type": "project",
+      "path": "../HTTP/HTTP.csproj",
+      "msbuildProject": "../HTTP/HTTP.csproj"
+    },
+    "WebServer/1.0.0": {
+      "type": "project",
+      "path": "../WebServer/WebServer.csproj",
+      "msbuildProject": "../WebServer/WebServer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "HTTP >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "WebServer >= 1.0.0",
       "microsoft.entityframeworkcore.design >= 2.1.4",
       "microsoft.entityframeworkcore.sqlserver >= 2.1.4",
       "microsoft.entityframeworkcore.tools >= 2.1.4"
@@ -3577,7 +3612,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj": {
+              "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\HTTP\\HTTP.csproj"
+            },
+            "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\WebServer\\WebServer.csproj": {
+              "projectPath": "D:\\work\\Softuni\\C# Web\\WebServer_SIS_MyEdition\\SIS\\WebServer\\WebServer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

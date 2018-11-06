@@ -9,3 +9,9 @@ D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\obj\Debug\
 D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\IRunes_HomeEdition.pdb
 D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\obj\Debug\netcoreapp2.1\IRunes_HomeEdition.dll
 D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\obj\Debug\netcoreapp2.1\IRunes_HomeEdition.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\HTTP.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\WebServer.dll
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\HTTP.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\WebServer.pdb
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\obj\Debug\netcoreapp2.1\IRunes_HomeEdition.csproj.CopyComplete
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\Views\Index.html

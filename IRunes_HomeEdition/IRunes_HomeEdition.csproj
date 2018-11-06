@@ -14,4 +14,15 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HTTP\HTTP.csproj" />
+    <ProjectReference Include="..\WebServer\WebServer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Views\Index.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
