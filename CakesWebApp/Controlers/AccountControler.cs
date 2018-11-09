@@ -1,8 +1,6 @@
-﻿using CakesWebApp.Data;
-using CakesWebApp.Models;
+﻿using CakesWebApp.Models;
 using CakesWebApp.Services;
 using HTTP.Cookies;
-using HTTP.Enums;
 using HTTP.Requests;
 using HTTP.Responses;
 using System;

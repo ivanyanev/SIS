@@ -7,7 +7,7 @@ namespace IRunes_HomeEdition.Controlers
     {
         public IHttpResponse Index(IHttpRequest request)
         {
-            return this.View("Index");
+            return this.View("Home/Index");
         }
     }
 }

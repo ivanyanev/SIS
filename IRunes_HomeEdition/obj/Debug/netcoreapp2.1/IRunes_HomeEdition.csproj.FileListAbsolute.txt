@@ -14,4 +14,6 @@ D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\
 D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\HTTP.pdb
 D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\WebServer.pdb
 D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\obj\Debug\netcoreapp2.1\IRunes_HomeEdition.csproj.CopyComplete
-D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\Views\Index.html
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\Views\Home\Index.html
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\Views\Users\Login.html
+D:\work\Softuni\C# Web\WebServer_SIS_MyEdition\SIS\IRunes_HomeEdition\bin\Debug\netcoreapp2.1\Views\Register.html
