@@ -10,7 +10,7 @@ namespace WebServer.Results
         public TextResult(string content, HttpResponseStatusCode responseStatusCode)
             : base(responseStatusCode)
         {
-            this.Headers.Add(new HttpHeader("Content-type", "text/plain"));
+            this.Headers.Add(new HttpHeader("Content-type", "text/plain; charset=utf-8"));
             this.Content = Encoding.UTF8.GetBytes(content);
         }
     }

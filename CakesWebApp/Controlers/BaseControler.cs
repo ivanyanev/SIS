@@ -3,6 +3,7 @@ using CakesWebApp.Services;
 using HTTP.Enums;
 using HTTP.Requests;
 using HTTP.Responses;
+using System.Collections.Generic;
 using System.IO;
 using WebServer.Results;
 
@@ -35,19 +36,40 @@ namespace CakesWebApp.Controlers
 
         protected IHttpResponse View(string viewName)
         {
-            var content = File.ReadAllText("Views/" + viewName + ".html");
+            var allContent = this.GetViewContent(viewName, new Dictionary<string, string>());
 
-            return new HtmlResult(content, HttpResponseStatusCode.Ok);
+            return new HtmlResult(allContent, HttpResponseStatusCode.Ok);
         }
 
         protected IHttpResponse BadRequestError(string errorMessage)
         {
-            return new HtmlResult($"<h1>{errorMessage}</h1>", HttpResponseStatusCode.BadRequest);
+            var viewBag = new Dictionary<string, string>();
+            viewBag.Add("Error", errorMessage);
+            var allContent = this.GetViewContent("Error", viewBag);
+
+            return new HtmlResult(allContent, HttpResponseStatusCode.BadRequest);
         }
 
         protected IHttpResponse ServertError(string errorMessage)
         {
-            return new HtmlResult($"<h1>{errorMessage}</h1>", HttpResponseStatusCode.InternalServerError);
+            var viewBag = new Dictionary<string, string>();
+            viewBag.Add("Error", errorMessage);
+            var allContent = this.GetViewContent("Error", viewBag);
+
+            return new HtmlResult(allContent, HttpResponseStatusCode.InternalServerError);
+        }
+
+        protected string GetViewContent(string viewName, IDictionary<string, string> viewBag)
+        {
+            var layoutContent = File.ReadAllText("Views/_Layout.html");
+            var content = File.ReadAllText("Views/" + viewName + ".html");
+            foreach (var item in viewBag)
+            {
+                content = content.Replace("@Model." + item.Key, item.Value);
+            }
+            var allContent = layoutContent.Replace("@RenderBody()", content);
+
+            return allContent;
         }
     }
 }

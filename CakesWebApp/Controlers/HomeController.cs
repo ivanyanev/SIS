@@ -1,6 +1,8 @@
 ﻿using HTTP.Enums;
 using HTTP.Requests;
 using HTTP.Responses;
+using System.IO;
+using System.Text;
 using WebServer.Results;
 
 namespace CakesWebApp.Controlers
@@ -14,7 +16,11 @@ namespace CakesWebApp.Controlers
 
         public IHttpResponse HelloUser(IHttpRequest request)
         {
-            return new HtmlResult($"<h1>Hello, {this.GetUsername(request)}</h1>", HttpResponseStatusCode.Ok);
+            var sb = new StringBuilder();
+            sb.Append($"<h1>Hello, {this.GetUsername(request)}</h1>")
+              .Append(File.ReadAllText("Views/" + "Index" + ".html").Replace("<p><a href=\"/login\">Login</a></p>", ""))
+              .Append("<p><a href=\" /logout\">Logout</a></p>");
+            return new HtmlResult(sb.ToString(), HttpResponseStatusCode.Ok);
         }
     }
 }

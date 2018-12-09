@@ -103,7 +103,7 @@ namespace CakesWebApp.Controlers
             // Save cookie/session with the user
             var cookieContent = this.UserCookieService.GetUserCookie(user.Username);
 
-            var response = new RedirectResult("/");
+            var response = new RedirectResult("/hello");
             var cookie = new HttpCookie(".auth-cakes", cookieContent, 7) { HttpOnly = true };
             response.Cookies.Add(cookie);
 

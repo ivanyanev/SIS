@@ -18,7 +18,7 @@ namespace IRunes_HomeEdition
 
             //serverRoutingTable.Routes[HttpRequestMethod.Post]["/users/login"] = request => new AccountController().Login(request);
 
-            serverRoutingTable.Routes[HttpRequestMethod.Post]["/users/register"] = request => new AccountController().Register(request);
+            serverRoutingTable.Routes[HttpRequestMethod.Get]["/users/register"] = request => new UsersController().Register(request);
 
 
 

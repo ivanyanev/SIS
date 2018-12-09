@@ -1,5 +1,7 @@
 ﻿using CakesWebApp.Controlers;
+using CakesWebApp.Models;
 using HTTP.Enums;
+using System.Net;
 using WebServer;
 using WebServer.Routing;
 
@@ -24,6 +26,18 @@ namespace CakesWebApp
             serverRoutingTable.Routes[HttpRequestMethod.Get]["/hello"] = request => new HomeController().HelloUser(request);
 
             serverRoutingTable.Routes[HttpRequestMethod.Get]["/logout"] = request => new AccountControler().Logout(request);
+
+            serverRoutingTable.Routes[HttpRequestMethod.Get]["/profile"] = request => new ProfileController().MyProfile(request);
+
+            serverRoutingTable.Routes[HttpRequestMethod.Get]["/add"] = request => new CakesController().AddCakePage(request);
+
+            serverRoutingTable.Routes[HttpRequestMethod.Post]["/add"] = request => new CakesController().AddCake(request);
+
+            serverRoutingTable.Routes[HttpRequestMethod.Get]["/search"] = request => new CakesController().SearchPage(request);
+
+            serverRoutingTable.Routes[HttpRequestMethod.Post]["/search"] = request => new CakesController().DoSearch(request);
+            
+            serverRoutingTable.Routes[HttpRequestMethod.Get]["/cakeDetails"] = request => new CakesController().GetCakeDetails(request);
 
             Server server = new Server(80, serverRoutingTable);
 

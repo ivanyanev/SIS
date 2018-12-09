@@ -8,6 +8,7 @@ namespace CakesWebApp.Services
     public class UserCookieService : IUserCookieService
     {
         public const string EncryptKey = "E646C8DF278CD5931069B522E695D4F2";
+
         public string GetUserCookie(string userName)
         {
             var cookieContent = EncryptString(userName, EncryptKey);
